@@ -9,6 +9,11 @@ module.exports = {
         thirdstage: '#311F09'
       }
     },
+    container: {
+      center: true,
+      padding: '15px',
+      sm: '1130px'
+    }
   },
   plugins: [],
 }
