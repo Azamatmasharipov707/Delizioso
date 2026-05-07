@@ -13,7 +13,8 @@ module.exports = {
       colors: {
         primery: '#FF8A00',
         secondary: '#3FA72F',
-        thirdstage: '#311F09'
+        thirdstage: '#311F09',
+        cardBg: '#f8f7f5'
       },
     },
   },
